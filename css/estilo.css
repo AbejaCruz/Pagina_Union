@@ -127,3 +127,6 @@ h4 {
 border: 1px solid transparent;
   border-radius: 4px;
 }
+.textar{
+  overflow-y:scroll;
+}
